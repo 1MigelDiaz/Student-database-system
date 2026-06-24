@@ -10,10 +10,10 @@ Structs, Vectors, File Handling, Functions
 Juan Miguel Diaz
 
 ## Screenshots
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](screenshots/Main_menu.png)
 
-![Add Student](screenshots/add_student.png)
+![Add Student](screenshots/Add_student.png)
 
-![Search Student](screenshots/search_student.png)
+![Search Student](screenshots/Search_for_student.png)
 
-![View students](screenshots/view_student.png)
+![View students](screenshots/Student_list.png)
