@@ -8,3 +8,12 @@ Structs, Vectors, File Handling, Functions
 
 ## Author
 Juan Miguel Diaz
+
+## Screenshots
+![Main Menu](screenshots/main_menu.png)
+
+![Add Student](screenshots/add_student.png)
+
+![Search Student](screenshots/search_student.png)
+
+![View students](screenshots/view_student.png)
